@@ -1,0 +1,1278 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+		<meta charset="utf-8">
+		
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+		
+		
+			<title>Beirut Veterans of America</title>
+		
+			<meta name="description" content="" />
+		
+		<meta name="robots" content="index, follow">
+		<meta name="revisit-after" content="8 days">
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta content="Beirut Veterans of America" property="og:site_name" /><meta content="website" property="og:type" /><meta content="http://www.beirutveterans.org/home" property="og:url" /><meta content="http://www.beirutveterans.org/home" itemprop="url" /> <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic,900,900italic"  /><link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Enriqueta:400,700"  /><link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700,900"  /><link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Oswald:300,400,700"  /><link rel="stylesheet" type="text/css" href="/vendor/_skins/hathaway/compiled/bootstrap.css?cb=895C6DC28EAE3184B8DD21A7528E310F"  /><link rel="stylesheet" type="text/css" href="/_resources/stylesheets/factory.css?cb=895C6DC28EAE3184B8DD21A7528E310F"  /><link rel="stylesheet" type="text/css" href="/vendor/_skins/hathaway/css/template.css?cb=895C6DC28EAE3184B8DD21A7528E310F"  /><link rel="stylesheet" type="text/css" href="/vendor/_skins/hathaway/css/header.css?cb=895C6DC28EAE3184B8DD21A7528E310F"  /><link rel="stylesheet" type="text/css" href="/vendor/_skins/hathaway/css/apps.css?cb=895C6DC28EAE3184B8DD21A7528E310F"  /><link rel="stylesheet" type="text/css" href="/vendor/_skins/hathaway/css/home.css?cb=895C6DC28EAE3184B8DD21A7528E310F"  /><link rel="stylesheet" type="text/css" href="/vendor/_skins/hathaway/js/magnific-popup/magnific-popup.css?cb=895C6DC28EAE3184B8DD21A7528E310F"  /><link rel="stylesheet" type="text/css" href="/vendor/_skins/hathaway/js/owl-carousel/owl.carousel.css?cb=895C6DC28EAE3184B8DD21A7528E310F"  /><link rel="stylesheet" type="text/css" href="/vendor/_skins/hathaway/js/owl-carousel/owl.theme.css?cb=895C6DC28EAE3184B8DD21A7528E310F"  /><link rel="stylesheet" type="text/css" href="/vendor/_skins/hathaway/js/aos/aos.css?cb=895C6DC28EAE3184B8DD21A7528E310F"  /> 
+
+<style id="skin-css-vars">
+/* template.css */
+body {
+	background-color: #262626;
+	color: #333;
+}
+a { color: #405563; }
+a:hover, a:focus { color: #405563; }
+h1, h2, h3, h4, h5, h6 { color: #333; }
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: #333; }
+h1 a:hover, h1 a:focus, h2 a:hover, h2 a:focus, h3 a:hover, h3 a:focus, h4 a:hover, h4 a:focus, h5 a:hover, h5 a:focus, h6 a:hover, h6 a:focus { color: #405563; }
+
+.btn {
+	color: #fff;
+}
+.btn:hover, .btn:focus {
+	background-color: #405563;
+	border-color: #405563;
+	color: #fff;
+}
+.btn-primary {
+	background-color: #ffd800;
+	border-color: #ffd800;
+	color: #fff;
+}
+
+.embed-responsive { background-color: #333; }
+
+#main { background-color: #fff; }
+
+#page-head {
+	background-image: url(/vendor/_accounts/beirut_veterans/images/page_head_bg.jpg);
+	border-bottom-color: #ccc;
+}
+#page-head h1 { color: #405563; }
+#page-head h1 a { color: inherit; }
+#page-head h1 a:hover, #page-head h1 a:focus { color: #262626; }
+
+.breadcrumb a {	color: #405563; }
+.breadcrumb a:hover, .breadcrumb a:focus { color: #262626; }
+.breadcrumb > li + li:before { color: #405563; }
+/*.breadcrumb a.page-action.print { background-image: url(vendor/_skins/hathaway/images/icon_print.png); }*/
+/*.breadcrumb a.page-action.share { background-image: url(vendor/_skins/hathaway/images/icon_share.png); }*/
+
+.pagegroup_posttypes h1.title, .pagegroup .pagegroup-title h2, #related-links::before {
+	border-bottom-color: #405563;
+	color: #405563;
+}
+.pagegroup_posttypes h1.title a { color: inherit; }
+.pagegroup_posttypes h1.title a:hover, .pagegroup_posttypes h1.title a:focus { color: #262626; }
+
+@media (max-width: 991px) {
+	#sidebar::before { background-color: #eee; }
+}
+
+#related-links li a {
+	color: #405563;
+	border-bottom-color: #405563;
+}
+#related-links li a:hover, #related-links li a:focus {
+	color: #262626;
+}
+
+#footer {
+	border-top-color: #ffd800;
+	color: rgba(255, 255, 255, .5);
+}
+#footer a { color: inherit; }
+#footer a:hover, #footer a:focus { color: #fff; }
+
+/* COMPONENTS *//* Footer Columns */
+.footer-cols {
+	background-color: #fff;
+	color: #fff;
+}
+.footer-cols>section {
+	background-color: rgba(64, 85, 99, .9);
+}
+.footer-cols>section:nth-child(-n+2) {
+	box-shadow: inset 0px -1px 0px 0px rgba(255, 255, 255, .25);
+}
+.footer-cols a { color: #fff; }
+.footer-cols a:hover, .footer-cols a:focus { color: #fff; }
+
+.footer-cols h1, .footer-cols h2, .footer-cols h3, .footer-cols h4, .footer-cols h5, .footer-cols h6 {
+	color: inherit;
+}
+.footer-cols strong { color: #ffd800; }
+
+.footer-cols ul li { border-top: 1px dashed rgba(255, 255, 255, .25); }
+.footer-cols ul li:last-child { border-bottom: 1px dashed rgba(255, 255, 255, .25); }
+.footer-cols .btn { background-color: rgba(255, 255, 255, .25); }
+.footer-cols li>a:hover, .footer-cols li>a:focus, .footer-cols .btn:hover, .footer-cols .btn:focus {
+	background-color: rgba(0, 0, 0, .25);
+}
+@media (max-width: 767px) {
+	.footer-cols>section:nth-child(2) {
+		background-color: rgba(64, 85, 99, .95);
+	}
+	.footer-cols>section:nth-child(3) {
+		background-color: rgba(64, 85, 99, 1);
+	}
+}
+@media (min-width: 768px) {
+	.footer-cols {
+		background-image: url(/vendor/_accounts/beirut_veterans/images/footer_cols_bg.jpg);
+	}
+	.footer-cols>section {
+		background-color: rgba(64, 85, 99, .5);
+	}
+	.footer-cols>section:nth-child(even) {
+		background-color: rgba(64, 85, 99, .5);
+	}
+	.footer-cols>section:nth-child(-n+2) {
+		box-shadow: inset -1px 0px 0px 0px rgba(255, 255, 255, .25);
+	}
+}
+
+/* COMPONENTS *//* Header */
+#header {
+	background-color: #405563;
+	background-image: url(/vendor/_accounts/beirut_veterans/images/header_bg.jpg);
+	border-bottom-color: #ffd800;
+	color: #fff;
+}
+#header .header-title a {
+	background-image: url(/vendor/_accounts/beirut_veterans/images/logo.png);
+}
+#header .items-toggle {
+	border-left-color: rgba(255, 255, 255, .5);
+	color: #fff;
+}
+#header .items-toggle:hover, #header .nav-section.open .items-toggle {
+	background-color: rgba(255, 255, 255, .15);
+	color: #fff;
+}
+#header .items-toggle .icon-bar {
+	background-color: #fff;
+}
+#header .items-toggle:hover .icon-bar, #header .nav-section.open .items-toggle .icon-bar {
+	background-color: #fff;
+}
+#header ul>li>a {
+	border-top-color: rgba(0, 0, 0, .15);
+	color: #405563;
+}
+#header ul>li>a:hover {
+	color: #262626;
+}
+#header .main-items>li>a {
+	background-color: #fff;
+}
+#header .main-items>li>a:hover {
+	background-color: #f2f2f2;
+}
+#header ul>li.dropdown>a {
+	/*background-image: url(vendor/_skins/hathaway/images/carat_down_filter.png);*/
+}
+#header ul>li.dropdown.open>a {
+	border-bottom-color: rgba(255, 255, 255, .15);
+}
+#header ul>li.dropdown.open>ul:hover {
+	background-color: #f2f2f2;
+}
+#header .dropdown-menu>li>a:hover, #header .dropdown-menu>li>a:focus {
+	background-color: transparent;
+}
+#header .nav_search>a.dropdown-toggle {
+	background-image: url(vendor/_skins/hathaway/images/nav_icon_search.png);
+}
+#header .nav_search form {
+	background-color: #eee;
+	border-top-color: rgba(255, 255, 255, .15);
+	color: #333;
+}
+#header .nav_search form button {
+	background-image: url(vendor/_skins/hathaway/images/btn_icon_search.png);
+	color: #262626;
+}
+#header .secondary-items-wrap {
+	background-color: white;
+}
+#header .secondary-items {
+	background-color: rgba(0, 0, 0, .05);
+}
+#header ul.secondary-items>li>a:hover, #header ul.secondary-items>li>a:focus {
+	background-color: rgba(255, 255, 255, .15);
+	color: #262626;
+}
+
+@media (max-width: 767px) {
+	.page-home #header.has-open-menu {
+		background-color: #405563;
+	}
+}
+
+@media (min-width: 1080px) {
+	.page-home #header ul.main-items {
+		border-bottom: 1px solid rgba(255, 255, 255, .25);
+	}
+	.page-home #header .has-secondary-items ul.main-items {
+		border-bottom: 0;
+	}
+	#header ul>li>a {
+		color: #fff;
+	}
+	#header .main-items>li>a {
+		background-color: transparent;
+	}
+	#header ul.main-items>li>a:hover, #header ul.main-items>li.open>a {
+		background-color: rgba(255, 255, 255, .15);
+		color: #fff;
+	}
+	#header li.dropdown ul a {
+		border-bottom-color: rgba(0, 0, 0, .15);
+		color: #405563;
+	}
+	#header li.dropdown ul a:hover {
+		background-color: #f2f2f2;
+		color: #262626;
+	}
+	
+	#header .secondary-items-wrap {
+		background-color: transparent;
+	}
+	#header .secondary-items {
+		background-color: transparent;
+	}
+}
+
+/* COMPONENTS *//* EVENTS *//* Tiles (Upcoming) */
+.eventtypelayout_tilesupcoming .event-item {
+	background-color: #fff;
+	border: 1px solid #405563;
+	color: #405563;
+}
+.eventtypelayout_tilesupcoming .event-item:hover, .eventtypelayout_tilesupcoming .event-item:focus {
+	background-color: #405563;
+	color: #fff;
+}
+.eventtypelayout_tilesupcoming .event-item .weekday-month {
+	color: inherit;
+}
+.eventtypelayout_tilesupcoming .event-item .day {
+	color: inherit;
+}
+.eventtypelayout_tilesupcoming .event-item .title {
+	color: inherit;
+}
+.eventtypelayout_tilesupcoming .section-link a {
+	/*background-image: url(../images/home/events_arrow.png);*/
+	color: #405563;
+}
+.eventtypelayout_tilesupcoming .section-link a:hover, .eventtypelayout_tilesupcoming .section-link a:focus {
+	color: #405563;
+}
+
+/* COMPONENTS *//* POSTS *//* Tiles */
+.posttypelayout_tiles article .post-type {
+	color: #ffd800;
+}
+.posttypelayout_tiles article h1 {
+	color: #fff;
+}
+.posttypelayout_tiles article h1 a {
+	color: inherit;
+}
+.posttypelayout_tiles article .post-teaser {
+	color: #fff;
+}
+.posttypelayout_tiles article h1 a:hover, .posttypelayout_tiles article h1 a:focus {
+	color: #405563;
+}
+
+/* COMPONENTS *//* TEXT BLOCKS *//* Action Blocks */
+.action-block-item { background-color: rgba(64, 85, 99, .9); }
+.action-block-item:hover { background-color: rgba(64, 85, 99, .99); }
+.action-block-item a {
+	color: #fff;
+	-moz-box-shadow: inset -1px 1px 0 rgba(255, 255, 255, .25);
+	-webkit-box-shadow: inset -1px 1px 0 rgba(255, 255, 255, .25);
+	box-shadow: inset -1px 1px 0 rgba(255, 255, 255, .25);
+}
+.action-block-item a:hover, .action-block-item a:focus {
+	color: #fff;
+}
+
+/* COMPONENTS *//* TEXT BLOCKS *//* Captions */
+.layout_captions .text-item {
+	background-color: #fff;
+}
+.layout_captions .text-item .image {
+	background-color: #ccc;
+}
+.layout_captions .text-item h1, .layout_captions .text-item h2, .layout_captions .text-item h3 {
+	color: #405563;
+}
+@media (min-width: 576px) {
+	.layout_captions .text-item+.text-item {
+		box-shadow: 0px 1px rgba(0, 0, 0, .15) inset;
+	}
+	.layout_captions .text-item .image::after {
+		border-right-color: #fff;
+	}
+}
+
+/* COMPONENTS *//* TEXT BLOCKS *//* Panels */
+.element_textblocks .layout_panels .text-items {
+	color: #405563;
+}
+.element_textblocks .layout_panels .text-item h1, .element_textblocks .layout_panels .text-item h2, .element_textblocks .layout_panels .text-item h3 {
+	color: inherit;
+}
+.element_textblocks .layout_panels .text-item a {
+	color: #405563;
+}
+.element_textblocks .layout_panels .text-item a:hover, .element_textblocks .layout_panels .text-item a:focus {
+	color: #405563;
+}
+.element_textblocks .layout_panels .text-item .btn {
+	background-color: #262626;
+	color: #fff;
+}
+.element_textblocks .layout_panels .text-item .btn:hover, .element_textblocks .layout_panels .text-item .btn:focus {
+	background-color: #405563;
+	color: #fff;
+}
+
+
+/* COMPONENTS *//* TEXT BLOCKS *//* Panels (Slider) */
+.panels-slider-carousel {
+	background-color: #eee;
+}
+.panels-slider-carousel-next {
+	background-image: url(vendor/_skins/hathaway/images/panel_slider_arrow_next.png);
+}
+.panels-slider-carousel-prev {
+	background-image: url(vendor/_skins/hathaway/images/panel_slider_arrow_prev.png);
+}
+
+
+/* PAGES *//* Home */
+.home-section-featured {
+	background-color: #405563;
+}
+#feature-carousel .feature-item {
+	color: #fff;
+}
+#feature-carousel .feature-content {
+	background-image: -moz-linear-gradient(top, #405563 5 rgba(64, 85, 99, 0) 30%);
+	background-image: -webkit-linear-gradient(top, #405563 5%, rgba(64, 85, 99, 0) 30%);
+	background-image: linear-gradient(to bottom, #405563 5%, rgba(64, 85, 99, 0) 30%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#405563', endColorstr='#405563',GradientType=0 );
+}
+#feature-carousel .feature-head h1 a {
+	color: #fff;
+}
+#feature-carousel .feature-head h1 a:hover, #feature-carousel .feature-head h1 a:focus {
+	color: #f2f2f2;
+}
+#feature-carousel .owl-controls .owl-page span {
+	background-color: #fff;
+}
+#feature-carousel-next {
+	background-image: url(vendor/_skins/hathaway/images/carousel_arrow_next.png);
+}
+#feature-carousel-prev {
+	background-image: url(vendor/_skins/hathaway/images/carousel_arrow_prev.png);
+}
+#feature-more-on-page .more-on-page-btn {
+	color: #ffd800;
+}
+#feature-more-on-page .icon {
+	background-color: rgba(255, 216, 0, .5);
+	background-image: url(vendor/_skins/hathaway/images/carousel_arrow_scroll_down.png);
+}
+#feature-carousel-progress-bar {
+	background-color: #ffd800;
+}
+#feature-carousel-progress {
+	background-color: #405563;
+}
+.home-section-action-blocks {
+	background-image: url(/vendor/_accounts/beirut_veterans/images/home/action_blocks_bg.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+}
+.home-section-events {
+	background-image: url(/vendor/_accounts/beirut_veterans/images/home/events_bg.jpg);
+}
+.home-section-events header {
+	color: #405563;
+}
+.home-section-updates {
+	/*background-image: url(/vendor/_accounts/beirut_veterans/images/home/updates_bg.jpg);*/
+}
+</style>
+
+
+
+<style id="skin-css-config">
+.cal-footer-legend .btn-group .btn {
+    color: #262626;
+}
+
+.btn-primary {
+    color: #415664;
+}
+.btn {
+   color: #415664 important;
+}
+
+#header {
+    background-image: url(/vendor/_accounts/beirut_veterans/images/header_bg3.jpg) !important;
+    padding-bottom: 30px;
+}
+.powered-by {
+    display: none;
+}
+.page-home #header {
+    background-image: none !important;
+}
+
+#header ul>li.nav_donate {
+    background-color: rgba(255,216,0,.8);
+}
+#header ul>li.nav_donate:hover {
+    background-color: rgba(255,216,0,1);
+}
+
+#header ul>li.nav_donate a {
+    color: #405563 !important;
+}
+
+.home-section-updates {
+    display: none;
+}
+
+.home-blocks {
+    margin: 0 -15px;
+}
+
+.home-block a {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #fff;
+    align-items: center;
+    justify-content: center;
+    height: 380px;
+    background: #e2e2e4;
+    font-weight: 300;
+    color: #333;
+    text-align: center;
+    box-shadow: 10px 10px 0 rgba(0, 0, 0, .05);
+    transition: all .25s;
+}
+
+.home-block a:hover {
+    background: #cfced2;
+    box-shadow: 0 0 0 rgba(0, 0, 0, .15);
+}
+
+.home-block a .header {
+    font-size: 36px;
+    text-transform: uppercase;
+    padding-top: 30px;
+}
+
+.home-block a .abstract {
+    padding: 0 20%;
+    padding-top: 10px;
+    line-height: 20px;
+}
+
+#feature-carousel .feature-item .feature-head {
+    padding: 0 50px;
+}
+
+@media (min-width: 768px) {
+    .feature-foot a.btn.btn-primary:after {
+        margin-top: -50px;
+    }
+}
+
+@media (min-width: 1080px) {
+    .main-items li.nav_contact {
+        float: right !important;
+        background: #d51f29;
+    }
+    .main-items li.nav_contact a {
+        padding: 0 20px !important;
+    }
+}
+
+article.feature-content {
+    align-items: center !important;
+    padding-left: inherit !important;
+    padding-right: inherit !important;
+    text-align: center;
+}
+
+.feature-head a {
+    line-height: 1.25em !important;
+}
+@media (max-width: 767px) {
+    #feature-more-on-page {
+        display: none;
+    }
+}
+@media (min-width: 768px){
+.element_textblocks .layout_panels .text-item {
+ background-position: top; 
+  
+}
+ .footer-cols {
+  background-image: url(/vendor/_accounts/beirut_veterans/images/footer_cols_bg1.jpg);
+}
+}
+#feature-carousel .feature-item>img {
+    background-position: top;
+    max-height: 650px;
+}
+
+@media (min-width: 1200px) {
+	#header .header-title a {
+		background-image: url('vendor/_accounts/beirut_veterans/images/logo1.png') !important;
+		background-size: contain !important;
+    height: 130px !important;
+	}
+}
+</style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" ></script><script src="/_resources/jscripts/swfobject-2.1.js" ></script><script src="/vendor/_skins/hathaway/js/jquery-1.11.1.min.js" ></script><script src="/vendor/_skins/hathaway/js/jquery-migrate-1.2.1.min.js" ></script><script src="/_resources/jscripts/jquery.form.20140218.min.js" ></script><script src="/_resources/jscripts/jquery.printelement.min.js" ></script><script src="/vendor/_skins/hathaway/js/isotope.pkgd.min.js" ></script><script src="/vendor/_skins/hathaway/js/bootstrap.min.js" ></script><script src="/vendor/_skins/hathaway/js/jquery.menu-aim.js" ></script><script src="/vendor/_skins/hathaway/js/default.js" ></script><script src="/vendor/_skins/hathaway/js/header.js" ></script><script src="/vendor/_skins/hathaway/js/jquery.cookie.js" ></script><script src="/vendor/_skins/hathaway/js/magnific-popup/jquery.magnific-popup.min.js" ></script><script src="/vendor/_skins/hathaway/js/jquery-advanced-news-ticker/jquery.newsTicker.min.js" ></script><script src="/vendor/_skins/hathaway/js/owl-carousel/owl.carousel.js" ></script><script src="/vendor/_skins/hathaway/js/aos/aos.js" ></script>
+</head>
+
+
+<body class="account-beirut_veterans section-home page-home lay-root">
+	
+	<svg class="svg-map main-svg-map" style="display: none;" xmlns="http://www.w3.org/2000/svg">
+	
+	<!-- ICONS/SOCIAL -->
+	
+	<symbol id="icon-facebook" viewBox="0 0 9.99 21.01">
+		<title>Facebook Icon</title>
+		<path d="M15.51.5H13.4A4,4,0,0,0,9,4.82V8H6v2.5H9v11h3v-11H15.3L16,8H12V4.72a1.24,1.24,0,0,1,1.24-1.23H15.5Z" transform="translate(-6.01 -0.48)" fill="currentColor"></path>
+	</symbol>
+	
+	<symbol id="icon-google-plus" viewBox="0 0 21.03 21.03">
+		<title>Google Plus Icon</title>
+		<path d="M10.89,12c-.57-.43-1.83-1.32-1.83-1.91s.2-1,1.25-1.86a4.21,4.21,0,0,0,1.84-3.32,3.91,3.91,0,0,0-1.77-3.51H12L13.41,0H7.18C4,0,1.38,2.29,1.38,4.85A4.46,4.46,0,0,0,5.61,9.54h.48a5.73,5.73,0,0,0,.6,0,2.68,2.68,0,0,0-.33,1.22,2.15,2.15,0,0,0,.9,1.61H6.13C2.51,12.35,0,13.5,0,17c0,2.35,3,4,6.66,4,4.13,0,6.7-2.18,6.66-4.68C13.29,14.47,12.91,13.53,10.89,12Zm-7-7A2.84,2.84,0,0,1,6.62,1.5c1.6.05,2.63,1.61,2.91,3.69S8.89,8.54,7.29,8.5A3.79,3.79,0,0,1,3.91,5ZM6.58,19.49c-2.35,0-4.05-1.34-4.05-3S4.43,14,6.74,14c.85,0,3.42,0,4.22,2a1.6,1.6,0,0,1,.08.58C11,18.23,9.89,19.49,6.58,19.49ZM21,4H18V7H17V4H14V3h3V0h1V3h3Z" transform="translate(0.01)" fill="currentColor" />
+	</symbol>
+	
+    <symbol id="icon-vimeo" viewBox="0 0 20.847 20.847">
+		<title>Vimeo Icon</title>
+        <path d="M17.811,2.018c2.017,0.053,3.026,1.198,3.036,3.438c0,0.147-0.005,0.3-0.013,0.457c-0.089,1.899-1.502,4.486-4.245,7.76   c-2.829,3.43-5.229,5.147-7.2,5.156c-1.226,0-2.244-1.05-3.061-3.151l-0.858-2.88L4.622,9.922C3.997,7.838,3.329,6.798,2.616,6.798   c-0.156,0-0.697,0.304-1.626,0.91L0,6.537l1.536-1.276l1.511-1.263C4.4,2.914,5.429,2.328,6.135,2.241   c0.094-0.01,0.188-0.013,0.284-0.013c1.449,0,2.354,1.041,2.709,3.124C9.326,6.54,9.49,7.506,9.623,8.248   C9.752,8.992,9.86,9.51,9.946,9.805c0.479,1.97,0.995,2.96,1.55,2.968c0.426,0,1.082-0.642,1.968-1.926   c0.866-1.319,1.332-2.296,1.392-2.932c0.019-0.129,0.026-0.25,0.026-0.362c0-0.861-0.474-1.29-1.418-1.29   c-0.479,0-0.99,0.102-1.537,0.299c0.98-3.021,2.864-4.534,5.65-4.544C17.655,2.018,17.732,2.018,17.811,2.018z" transform="translate(0 0)" fill="currentColor"/>
+    </symbol>
+    
+	<symbol id="icon-instagram" viewBox="0 0 20 20">
+		<title>Instagram Icon</title>
+		<g>
+			<path d="M15.33,3.41a1.21,1.21,0,0,0-1.21,1.21h0a1.21,1.21,0,1,0,1.21-1.21Z" transform="translate(0 0)" fill="currentColor" />
+			<path d="M10,4.83A5.17,5.17,0,1,0,15.17,10,5.17,5.17,0,0,0,10,4.83Zm0,8.45A3.33,3.33,0,0,1,6.67,9.95h0A3.33,3.33,0,1,1,10,13.28Z" transform="translate(0 0)" fill="currentColor" />
+			<path d="M14.22,0H5.77A5.77,5.77,0,0,0,0,5.77v8.45A5.77,5.77,0,0,0,5.77,20h8.45A5.77,5.77,0,0,0,20,14.23V5.77h0A5.77,5.77,0,0,0,14.22,0ZM18,10c0,2.14,0,4,0,4a4.3,4.3,0,0,1-4,4H6a4.29,4.29,0,0,1-4-4V6A4.35,4.35,0,0,1,6,2h8a4.3,4.3,0,0,1,4,4S17.93,7.7,18,10Z" transform="translate(0 0)" fill="currentColor" />
+		</g>
+	</symbol>
+	
+	<symbol id="icon-linkedin" viewBox="0 0 20.01 21.02">
+		<title>LinkedIn Icon</title>
+		<path d="M5.77,2.75A2.25,2.25,0,0,1,3.54,5L3.25,5A2.27,2.27,0,1,1,5.77,2.75ZM1.24,21.5V7h4V21.5ZM8.25,7h3.57l.43,1.49a4.19,4.19,0,0,1,4-2c2.95,0,5,1.72,5,6v9h-4V13.11c0-1.86-1-3.13-2.62-3.13a2.38,2.38,0,0,0-2.24,1.69,3.13,3.13,0,0,0-.15,1.12V21.5h-4Z" transform="translate(-1.23 -0.48)" fill="currentColor"/>
+	</symbol>
+	
+	<symbol id="icon-twitter" viewBox="0 0 20.99 16.98">
+		<title>Twitter Icon</title>
+		<path d="M21.5,4.52A8.52,8.52,0,0,1,19,5.19a4.29,4.29,0,0,0,1.89-2.37,8.59,8.59,0,0,1-2.73,1A4.34,4.34,0,0,0,15,2.51a4.29,4.29,0,0,0-4.3,4.28h0a3.9,3.9,0,0,0,.11,1A12.23,12.23,0,0,1,2,3.29,4.3,4.3,0,0,0,3.3,9a4.31,4.31,0,0,1-1.95-.54v.06a4.3,4.3,0,0,0,3.46,4.2,4.29,4.29,0,0,1-1.95.07,4.3,4.3,0,0,0,4,3,8.65,8.65,0,0,1-5.34,1.84,8.75,8.75,0,0,1-1-.06A12.27,12.27,0,0,0,19.37,7.29c0-.18,0-.37,0-.55A8.56,8.56,0,0,0,21.5,4.52Z" transform="translate(-0.51 -2.51)" fill="currentColor"/>
+	</symbol>
+	
+	<symbol id="icon-youtube" viewBox="0 0 21.05 15.08">
+		<title>YouTube Icon</title>
+		<path d="M21,7.67h0c0,2.94-.5,5.83-1.55,6.6s-6.87.83-9,.83-7.52,0-8.75-.73S0,10.66,0,7.67H0C0,4.68.64,1.46,1.78.75S8.35,0,10.53,0s7.77,0,9,.84S21,4.73,21,7.67ZM8,3.06v9l7-4.5Z" transform="translate(0.01 -0.02)" fill="currentColor"/>
+	</symbol>
+	
+	<!-- ICONS/GENERAL -->
+	<symbol id="icon-clients" viewBox="0 0 26 26">
+		<title>Clients Icon</title>
+		<path d="M23.87,4.16a6.89,6.89,0,0,0-9.15,0L13,5.73,11.28,4.16a6.89,6.89,0,0,0-9.15,0,6.3,6.3,0,0,0,0,9.45L13,23.58l10.87-10A6.3,6.3,0,0,0,23.87,4.16Zm-1.61,7.9L13,20.69,3.74,12.06a4.14,4.14,0,0,1-1.3-3.17,3.7,3.7,0,0,1,1.14-3A4.58,4.58,0,0,1,6.71,4.69,4.89,4.89,0,0,1,9.83,6.16L13,8.92l3.17-2.76a4.89,4.89,0,0,1,3.12-1.48,4.58,4.58,0,0,1,3.12,1.17,3.7,3.7,0,0,1,1.14,3A4.14,4.14,0,0,1,22.26,12.06Z" fill="currentColor"></path>
+	</symbol>
+	
+	<symbol id="icon-email" viewBox="0 0 26 26">
+		<title>Email icon</title>
+		<path d="M23,23H3a3,3,0,0,1-3-3V6A3.16,3.16,0,0,1,3,3H23a3.22,3.22,0,0,1,3,3V20A3.35,3.35,0,0,1,23,23ZM4,21H22a2.2,2.2,0,0,0,2-2V7.25L13.65,15.86a1,1,0,0,1-1.31,0L2,7.29V19A2.16,2.16,0,0,0,4,21ZM22,5H4a1.92,1.92,0,0,0-1.13.41L13,13.79l10.1-8.4A1.94,1.94,0,0,0,22,5Z" fill="currentColor"></path>
+	</symbol>
+	
+	<symbol id="icon-map" viewBox="0 0 26 26">
+		<title>Map Icon</title>
+		<path d="M13,0A8.12,8.12,0,0,0,4.87,8.13C4.87,15.88,13,26,13,26s8.13-10.12,8.13-17.87A8.13,8.13,0,0,0,13,0Zm0,12.61a4.39,4.39,0,1,1,4.39-4.39A4.39,4.39,0,0,1,13,12.61Z" fill="currentColor"></path>
+	</symbol>
+	
+	<symbol id="icon-print" viewBox="0 0 26 26">
+		<title>Print Icon</title>
+		<path d="M1.72,8.36H24.28a.49.49,0,0,0,.26-.94,44.14,44.14,0,0,0-5.3-1.72H18v-4H8v4H6.77a44.14,44.14,0,0,0-5.3,1.72A.49.49,0,0,0,1.72,8.36ZM24.54,9.82H1.46A1.7,1.7,0,0,0,0,11.41v4.64a1.7,1.7,0,0,0,1.46,1.59H4.09L2.92,24.28H23.08l-1.17-6.63h2.63A1.7,1.7,0,0,0,26,16.05V11.41A1.7,1.7,0,0,0,24.54,9.82Zm-19,11.81L7.43,13H18.57l1.86,8.62Z" fill="currentColor"></path>
+	</symbol>
+	
+	<symbol id="icon-quote" viewBox="0 0 26 26">
+		<title>Quote Icon</title>
+		<g>
+			<g>
+				<path d="M13.54,12.77H8v2.4H15.5v-.84a6.76,6.76,0,0,1-1.13-.81Z" fill="currentColor"></path>
+				<path d="M15.47,8.88V8.49a5.49,5.49,0,0,1-.68-.88l0,0H8V9.9h6.81L15.37,9Z" fill="currentColor"></path>
+				<rect x="8.01" y="18.03" width="7.46" height="2.33" fill="currentColor"></rect>
+				<path d="M18.8,17.14h-.4v6.2H5.07V4.68h9.14a5.16,5.16,0,0,1,1-2.67H5.07A2.67,2.67,0,0,0,2.41,4.68V23.33A2.67,2.67,0,0,0,5.07,26H18.4a2.67,2.67,0,0,0,2.67-2.67v-6.2H18.8Z" fill="currentColor"></path>
+			</g>
+			<path d="M22,5.08a4.19,4.19,0,0,0-.92-.64,2.11,2.11,0,0,0-.94-.21,1.52,1.52,0,0,0-.86.2.83.83,0,0,0-.29.73.72.72,0,0,0,.34.59,5.41,5.41,0,0,0,.86.5l1.11.54a6,6,0,0,1,1.11.7,3.58,3.58,0,0,1,.86,1,2.65,2.65,0,0,1,.34,1.38,3.73,3.73,0,0,1-.69,2.25,3.49,3.49,0,0,1-2.1,1.29v1.9h-2V13.48a6.82,6.82,0,0,1-1.64-.42,4.93,4.93,0,0,1-1.55-.94L16.94,10a6.2,6.2,0,0,0,1.31.77,3.09,3.09,0,0,0,1.15.23,1.51,1.51,0,0,0,1-.24.94.94,0,0,0,.29-.76.81.81,0,0,0-.34-.63,5,5,0,0,0-.86-.55l-1.11-.56a6.34,6.34,0,0,1-1.11-.71,3.66,3.66,0,0,1-.86-1A2.52,2.52,0,0,1,16,5.29,3.47,3.47,0,0,1,16.77,3a3.47,3.47,0,0,1,2-1.18V0h2V1.82a4.26,4.26,0,0,1,1.51.54,5.57,5.57,0,0,1,1.19,1Z" fill="currentColor"></path>
+		</g>
+	</symbol>
+	
+	<symbol id="icon-share" viewBox="0 0 26 26">
+		<title>icon_share</title>
+		<path d="M19.5,20.54H2.6V8.84H6a15.43,15.43,0,0,1,2.82-2.6H1.3A1.3,1.3,0,0,0,0,7.54v14.3a1.3,1.3,0,0,0,1.3,1.3H20.8a1.3,1.3,0,0,0,1.3-1.3V17l-2.6,2.14Zm-2.13-9v4.62L26,9.36l-8.63-6.5V6.93C6.89,6.93,6.89,17.29,6.89,17.29,9.86,12.42,11.68,11.5,17.37,11.5Z" fill="currentColor"></path>
+	</symbol>
+	
+	<!-- INDICATORS -->
+	
+	<symbol id="carousel-arrow-left" viewBox="0 0 54.8 204.54">
+		<title>Carousel Arrow - Left</title>
+		<path d="M1213.5,871.77a2.27,2.27,0,0,1-2-1.25L1161,769.5l.51-1,50-100a2.27,2.27,0,1,1,4.06,2l-49.49,99,49.49,99a2.27,2.27,0,0,1-2,3.28Z" transform="translate(-1160.96 -667.23)" fill="currentColor"></path>
+	</symbol>
+	
+	<symbol id="carousel-arrow-right" viewBox="0 0 54.8 204.54">
+		<title>Carousel Arrow - Right</title>
+		<path d="M1263.23,667.23a2.27,2.27,0,0,1,2,1.25l50.51,101-.51,1-50,100a2.27,2.27,0,1,1-4.06-2l49.49-99-49.49-99a2.27,2.27,0,0,1,2-3.28Z" transform="translate(-1260.96 -667.23)" fill="currentColor"></path>
+	</symbol>
+	
+	<!-- ACCOUNT -->
+	
+	
+
+</svg>
+
+				<div class="module" id="alerts">
+					
+				</div>
+				
+<!-- EXECUTION TIME: 14ms -->
+
+				<div class="module" id="announcements">
+					
+				</div>
+				
+<!-- EXECUTION TIME: 7ms -->
+
+	
+	<div id="wrapper">
+		
+		
+		
+		
+		<header id="header" class="hidden-print">
+			
+
+<div class="header-title">
+	<a href="/">Your Website</a>
+</div>
+	
+<div class="nav-section main-nav-section">
+
+	<div class="toggle-wrap main-toggle-wrap">
+		<button type="button" class="items-toggle main-items-toggle">
+			<span class="icon-bar-wrap">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</span>
+			<span class="icon-label">Menu</span>
+			<div class="clearfix"></div>
+		</button>
+	</div><!-- ./main-toggle-wrap -->
+
+	<div class="items-wrap main-items-wrap clearfix">
+		
+	
+		
+		<ul class="items main-items">
+			
+		
+			<li class="nav_announcements"><a href="/announcements">Announcements</a></li>
+		
+			<li class="nav_events"><a href="/events">Events</a></li>
+		
+			<li class="nav_about-the-bva dropdown"><a href="/about-the-bva" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About the BVA</a><ul class="dropdown-menu" role="menu">
+				
+					<li class="odd first">
+						<a href="/bva-history">BVA History</a>
+					</li>
+				
+					<li class="even">
+						<a href="/current-officers">Current Officers</a>
+					</li>
+				
+					<li class="odd">
+						<a href="/memorials">Known Memorials</a>
+					</li>
+				
+					<li class="even">
+						<a href="/links">Links</a>
+					</li>
+				
+					<li class="odd last">
+						<a href="/join">Join the BVA</a>
+					</li>
+				
+			</ul></li>
+		
+			<li class="nav_members dropdown"><a href="/members" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Members</a><ul class="dropdown-menu" role="menu">
+				
+					<li class="odd first">
+						<a href="/join-the-bva">Join the BVA</a>
+					</li>
+				
+					<li class="even">
+						<a href="/membership-update">Membership Update Form</a>
+					</li>
+				
+					<li class="odd">
+						<a href="/final-muster">Final Muster</a>
+					</li>
+				
+					<li class="even">
+						<a href="/root-scoop">Root Scoop</a>
+					</li>
+				
+					<li class="odd">
+						<a href="/coins">BVA Coins</a>
+					</li>
+				
+					<li class="even last">
+						<a href="/pins">Beirut Pins</a>
+					</li>
+				
+			</ul></li>
+		
+			<li class="nav_contact-us"><a href="/contact-us">Contact Us</a></li>
+		
+			<li class="nav_donate"><a href="/donate">Donate</a></li>
+		
+			<li class="nav_search dropdown">
+				<a href="/search" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Search</a>
+				<div class="dropdown-menu" role="menu">
+					<form action="/">
+						<input type="hidden" name="p" value="search">
+						<input type="hidden" name="num" value="10">
+						<input type="hidden" name="filter" value="0">
+						<label for="search_input">Search</label>
+						<input type="text" id="search_input" class="search-input" name="q" placeholder="Keyword Search" value="">
+						<button type="submit">Go</button>
+					</form>
+				</div>
+			</li>
+		
+		
+		</ul>
+	</div>
+	
+</div>
+
+<div class="clearfix"></div>
+
+
+
+
+
+		</header>
+		
+		
+		<main id="main" role="main">
+			<div class="lay-home">
+	<section id="content">
+		<div id="content-inner">
+			<div id="page-body">
+				
+				
+
+<!-- CAROUSEL -->
+<section class="home-section home-section-featured">
+	
+	<div id="feature-carousel" class="feature-items owl-carousel owl-theme">
+	
+		
+		<div class="feature-item">
+			
+			
+				<img src="http://www.beirutveterans.org/vendor/_skins/hathaway/images/trans-4by3.png" style="background-image: url(/?a=files.serve&file_id=0e79ad4e-440c-429b-85b4-6691966c4c34);">
+			
+			<article class="feature-content">
+				<header class="feature-head">
+					<h1><a href="/announcements?id=8e3ddf93-fba2-4eab-a31a-47b054b1fa96">2017 Itinerary - Base Access - USO</a></h1>
+				</header>
+				<div class="feature-body">
+					Oct. 22, SUNDAY  2017 
+
+1400 -1800      Annual BVA Membership Meeting: USO
+
+1800-2200:     Beirut Veterans Get Together: Holiday Inn Express 
+
+Oct 23, MONDAY 2017
+
+0600:              Candlelight Ceremony at Memorial: Camp Johnson
+
+1030:              Remembrance Ceremony at Memorial: Camp Johnson
+
+1400:              Marine Corps League Devil Dogs Ceremony—Camp Geiger Circle 
+
+         (NOTE** Access to Camp Geiger is through MCAS New River Main Gate)
+
+1800-2200:     Hospitality Suite: Beirut Veterans and Families: Holiday Inn Express 
+				</div>
+				<div class="feature-foot">
+				
+					<a href="/announcements?id=8e3ddf93-fba2-4eab-a31a-47b054b1fa96" class="btn btn-primary">Learn more</a>
+				
+				</div>
+			</article>
+		</div>
+	
+	
+		
+		<div class="feature-item">
+			
+			
+				<img src="http://www.beirutveterans.org/vendor/_skins/hathaway/images/trans-4by3.png" style="background-image: url(/?a=files.serve&file_id=ea1a9c7f-8774-4465-8637-95abfbb51f9b);">
+			
+			<article class="feature-content">
+				<header class="feature-head">
+					<h1><a href="/announcements?id=e68907b1-3fb2-4cc9-b296-53ae8f9850eb">Hotel Information for 2017</a></h1>
+				</header>
+				<div class="feature-body">
+					HOTEL INFORMATION FOR 2017 REMEMBRANCE
+
+You must CALL the hotels to get the Group Rate; the websites will not accept the Group Code!
+				</div>
+				<div class="feature-foot">
+				
+					<a href="/announcements?id=e68907b1-3fb2-4cc9-b296-53ae8f9850eb" class="btn btn-primary">Learn more</a>
+				
+				</div>
+			</article>
+		</div>
+	
+	
+		
+		<div class="feature-item">
+			
+			
+				<img src="http://www.beirutveterans.org/vendor/_skins/hathaway/images/trans-4by3.png" style="background-image: url(/?a=files.serve&file_id=6b815ce0-9839-4d6a-acd1-476d1102f27c);">
+			
+			<article class="feature-content">
+				<header class="feature-head">
+					<h1><a href="/announcements?id=c03ed516-7282-4bb1-907a-eac2a131b86d">Beirut Memorial Directions</a></h1>
+				</header>
+				<div class="feature-body">
+					
+				</div>
+				<div class="feature-foot">
+				
+					<a href="/announcements?id=c03ed516-7282-4bb1-907a-eac2a131b86d" class="btn btn-primary">Learn more</a>
+				
+				</div>
+			</article>
+		</div>
+	
+	
+		
+		<div class="feature-item">
+			
+			
+				<img src="http://www.beirutveterans.org/vendor/_skins/hathaway/images/trans-4by3.png" style="background-image: url(/?a=files.serve&file_id=ff02158a-8061-4d7b-a853-4a60a0f1aebe);">
+			
+			<article class="feature-content">
+				<header class="feature-head">
+					<h1><a href="/announcements?id=24853820-1365-4a50-938e-130a4e76db88">New BVA Coins</a></h1>
+				</header>
+				<div class="feature-body">
+					Please visit our coin form page.
+				</div>
+				<div class="feature-foot">
+				
+					<a href="/announcements?id=24853820-1365-4a50-938e-130a4e76db88" class="btn btn-primary">Learn more</a>
+				
+				</div>
+			</article>
+		</div>
+	
+	
+		
+		<div class="feature-item">
+			
+			
+				<img src="http://www.beirutveterans.org/vendor/_skins/hathaway/images/trans-4by3.png" style="background-image: url(/?a=files.serve&file_id=5cdc5cd8-5916-457a-8f59-ca2e9aa7f758);">
+			
+			<article class="feature-content">
+				<header class="feature-head">
+					<h1><a href="/announcements?id=640e7f24-ad3b-4527-afdf-2e3d34c81746">Beirut Memorial Pins</a></h1>
+				</header>
+				<div class="feature-body">
+					If you want more information about how to obtain a pin please fill out our Pin request form.
+				</div>
+				<div class="feature-foot">
+				
+					<a href="/announcements?id=640e7f24-ad3b-4527-afdf-2e3d34c81746" class="btn btn-primary">Learn more</a>
+				
+				</div>
+			</article>
+		</div>
+	
+	
+	</div>
+
+</section>
+
+
+<div id="group_9ad85c22-60bf-4564-b11a-e2149e2a7d62" class="pagegroup pagegroup_eventtypes group-container-size-fixed">
+<div class="section eventtypelayout_tilesupcoming">
+
+<div class="element element_eventtypes">
+	<div class="header pagegroup-title"><h2>Upcoming Memorial Events</h2></div>
+
+
+<!-- Events -->
+<div class="event-items">
+
+	<div class="event-item linkify" data-href="/events?id=acd14cbd-c843-4f8e-9c88-ed06e2c3412b">
+		<article>
+			<div class="weekday-month">
+				<span class="weekday">Sat</span><span class="times"> at 1:00 PM</span> / <span class="month">Oct</span>
+			</div>
+			<div class="day">14</div>
+			<div class="title">20th Annual Connecticut Beirut Memorial Ceremony</div>
+		</article>
+	</div>
+
+	<div class="event-item linkify" data-href="/events?id=1d6a72b5-18f1-4265-8380-446fcaf32cd2">
+		<article>
+			<div class="weekday-month">
+				<span class="weekday">Sun</span> / <span class="month">Oct</span>
+			</div>
+			<div class="day">15</div>
+			<div class="title">Friends of the Massachusetts Beirut Memorial</div>
+		</article>
+	</div>
+
+	<div class="event-item linkify" data-href="/events?id=a1ff38de-9dce-41a5-aee4-5cb98b08a5ff">
+		<article>
+			<div class="weekday-month">
+				<span class="weekday">Sun</span><span class="times"> at 2:00 PM</span> / <span class="month">Oct</span>
+			</div>
+			<div class="day">22</div>
+			<div class="title">BVA Business Meeting - 1400 @ USO Jacksonville, NC</div>
+		</article>
+	</div>
+
+	<div class="event-item linkify" data-href="/events?id=3f47d531-98ad-41fa-9a23-f94218f09d25">
+		<article>
+			<div class="weekday-month">
+				<span class="weekday">Mon</span> / <span class="month">Oct</span>
+			</div>
+			<div class="day">23</div>
+			<div class="title">The 34th Annual Beirut Memorial Observance Ceremony - Portsm...</div>
+		</article>
+	</div>
+
+	<div class="event-item linkify" data-href="/events?id=3d3a3152-27fd-4a29-830e-f21450199135">
+		<article>
+			<div class="weekday-month">
+				<span class="weekday">Mon</span><span class="times"> at 6:00 AM</span> / <span class="month">Oct</span>
+			</div>
+			<div class="day">23</div>
+			<div class="title">Candlelight Ceremony - @ Beirut Memorial</div>
+		</article>
+	</div>
+
+	<div class="event-item linkify" data-href="/events?id=0a6022d9-d672-457e-bcb6-e1bd4dcd6591">
+		<article>
+			<div class="weekday-month">
+				<span class="weekday">Mon</span><span class="times"> at 10:00 AM</span> / <span class="month">Oct</span>
+			</div>
+			<div class="day">23</div>
+			<div class="title">34th Beirut Remembrance - Main Ceremony</div>
+		</article>
+	</div>
+
+</div><!-- /.event-items -->
+
+<div class="section-link">
+	<a href="/events">View More Events</a>
+</div>
+
+</div>
+
+</div>
+</div>
+
+<div id="group_a2d1e0dd-4528-42fc-9e93-e3e3aca82eaa" class="pagegroup pagegroup_textblocks">
+<div class="element element_textblocks">
+
+<section class="layout_panels">
+	
+	
+	
+	<div class="text-items">
+	
+		<article class="text-item" style="background-image: url(/?a=Files.Serve&File_id=9e549474-cf13-4f8b-9c1f-d793c2a94be3);">
+			<div class="block">
+			<h2 style="color: #fff;">BVA History</h2>
+<p style="color: #fff;">The First Battle Against Terrorism</p> 
+				<footer>
+					<a href="/bva-history" class="btn">More Info</a>
+				</footer>
+			
+			</div><!-- /.block -->
+		</article><!-- /.text-item -->
+	
+		<article class="text-item" style="background-image: url(/?a=Files.Serve&File_id=b397155c-6a29-4f0a-a77c-2e99f54bda75);">
+			<div class="block">
+			<h2 style="color: #fff;">Join the BVA</h2>
+<p style="color: #fff;">Fill Out Application</p> 
+				<footer>
+					<a href="/join-the-bva" class="btn">More Info</a>
+				</footer>
+			
+			</div><!-- /.block -->
+		</article><!-- /.text-item -->
+	
+		<article class="text-item" style="background-image: url(/?a=Files.Serve&File_id=2267a275-3566-4eec-beb9-001a4d04526b);">
+			<div class="block">
+			<h2 style="color: #fff;">Root Scoop</h2>
+<p style="color: #fff;">Periodical Newsletter</p> 
+				<footer>
+					<a href="/root-scoop" class="btn">More Info</a>
+				</footer>
+			
+			</div><!-- /.block -->
+		</article><!-- /.text-item -->
+	
+	</div><!-- /.panel-items -->
+</section>
+
+</div>
+</div>
+
+<div id="group_a9e45687-f839-40a0-98e9-308845b3fcd5" class="pagegroup pagegroup_posttypes group-container-size-fixed">
+<div class="section posttypelayout_tiles">
+
+<div class="element element_posttypes">
+
+
+<div class="post-items">
+
+	<div class="post-item hero">
+		<img src="//www.beirutveterans.org/vendor/_skins/hathaway/images/trans-1by1.png" style="background-image: url(/?a=files.serve&file_id=5aca70e7-9942-4f94-b4d4-bb5722853dd2);">
+		<article>
+			<header>
+				<div class="post-type">News & Announcements</div>
+				<h1 class="post-title"><a href="/announcements?id=8e3ddf93-fba2-4eab-a31a-47b054b1fa96">2017 Itinerary - Base Access - USO</a></h1>
+			</header>
+		
+			<div class="post-teaser">Oct. 22, SUNDAY  2017 
+
+1400 -1800      Annual BVA Membership Meeting: USO
+
+1800-2200:     Beirut Veterans Get Together: Holiday Inn Express 
+
+Oct 23, MONDAY 2017
+
+0600:              Candlelight Ceremony at Memorial: Camp Johnson
+
+1030:              Remembrance Ceremony at Memorial: Camp Johnson
+
+1400:              Marine Corps League Devil Dogs Ceremony—Camp Geiger Circle 
+
+         (NOTE** Access to Camp Geiger is through MCAS New River Main Gate)
+
+1800-2200:     Hospitality Suite: Beirut Veterans and Families: Holiday Inn Express </div>
+		
+			<footer>
+			
+				<a href="/announcements?id=8e3ddf93-fba2-4eab-a31a-47b054b1fa96" class="btn btn-primary btn-compact">Read more</a>
+			
+			</footer>
+		</article>
+	</div>
+	
+	<div class="post-item">
+		<img src="//www.beirutveterans.org/vendor/_skins/hathaway/images/trans-1by1.png" style="background-image: url(/?a=files.serve&file_id=2c26115c-0970-4814-80d9-79a4c9891bf7);">
+		<article>
+			<header>
+				<div class="post-type">News & Announcements</div>
+				<h1 class="post-title"><a href="/announcements?id=e68907b1-3fb2-4cc9-b296-53ae8f9850eb">Hotel Information for 2017</a></h1>
+			</header>
+		
+			<div class="post-teaser">HOTEL INFORMATION FOR 2017 REMEMBRANCE
+
+You must CALL the hotels to get the Group Rate; the websites will not accept the Group Code!</div>
+		
+			<footer>
+			
+				<a href="/announcements?id=e68907b1-3fb2-4cc9-b296-53ae8f9850eb" class="btn btn-primary btn-compact">Read more</a>
+			
+			</footer>
+		</article>
+	</div>
+	
+	<div class="post-item">
+		<img src="//www.beirutveterans.org/vendor/_skins/hathaway/images/trans-1by1.png" style="background-image: url(/?a=files.serve&file_id=f4b4b577-a35d-4d27-aee0-689396c274e0);">
+		<article>
+			<header>
+				<div class="post-type">News & Announcements</div>
+				<h1 class="post-title"><a href="/announcements?id=c03ed516-7282-4bb1-907a-eac2a131b86d">Beirut Memorial Directions</a></h1>
+			</header>
+		
+			<footer>
+			
+				<a href="/announcements?id=c03ed516-7282-4bb1-907a-eac2a131b86d" class="btn btn-primary btn-compact">Read more</a>
+			
+			</footer>
+		</article>
+	</div>
+	
+	<div class="post-item">
+		<img src="//www.beirutveterans.org/vendor/_skins/hathaway/images/trans-1by1.png" style="background-image: url(/?a=files.serve&file_id=b321b053-0b14-4805-9b4e-3d834cc1b54b);">
+		<article>
+			<header>
+				<div class="post-type">News & Announcements</div>
+				<h1 class="post-title"><a href="/announcements?id=24853820-1365-4a50-938e-130a4e76db88">New BVA Coins</a></h1>
+			</header>
+		
+			<div class="post-teaser">Please visit our coin form page.</div>
+		
+			<footer>
+			
+				<a href="/announcements?id=24853820-1365-4a50-938e-130a4e76db88" class="btn btn-primary btn-compact">Read more</a>
+			
+			</footer>
+		</article>
+	</div>
+	
+	<div class="post-item">
+		<img src="//www.beirutveterans.org/vendor/_skins/hathaway/images/trans-1by1.png" style="background-image: url(/?a=files.serve&file_id=c07142c3-c351-4e9f-8eeb-b787ca7af135);">
+		<article>
+			<header>
+				<div class="post-type">News & Announcements</div>
+				<h1 class="post-title"><a href="/announcements?id=640e7f24-ad3b-4527-afdf-2e3d34c81746">Beirut Memorial Pins</a></h1>
+			</header>
+		
+			<div class="post-teaser">If you want more information about how to obtain a pin please fill out our Pin request form.</div>
+		
+			<footer>
+			
+				<a href="/announcements?id=640e7f24-ad3b-4527-afdf-2e3d34c81746" class="btn btn-primary btn-compact">Read more</a>
+			
+			</footer>
+		</article>
+	</div>
+	
+</div><!-- /.post-items -->
+</div>
+
+</div>
+</div>
+
+				
+			</div>
+		</div>
+	</section>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+	$('.mfp-video-btn').magnificPopup({type:'iframe'});
+});
+</script>
+
+		</main>
+		
+		
+			
+
+<div class="footer-cols hidden-print">
+	<section class="footer-cols-section">
+		<h3>Contact</h3>
+
+<address>
+	<strong>Our Address</strong><br />
+	PO Box 1011<br />
+	Fairport Harbor, OH 44077-1011<br />
+</address>
+
+<a href="/contact-us" class="btn">
+	<svg class="icon" role="presentation"><use xlink:href="#icon-email"></use></svg> Email Us
+</a>
+
+	</section>
+	<section class="footer-cols-section">
+		<h3>The First Duty is to Remember</h3>
+
+<p>
+	<strong>The BVA was established in 1992 by Beirut veterans who wanted a fraternal organization.</strong><br />
+	They are dedicated to keeping the memories alive of those comrades who paid the supreme sacrifice in supporting America’s quest for peace in Lebanon.
+</p>
+
+<a href="/join" class="btn">
+	<svg class="icon" role="presentation"><use xlink:href="#icon-quote"></use></svg> Join the BVA
+</a>
+	</section>
+	<section class="footer-cols-section">
+		<h3>Follow</h3>
+
+<ul>
+	<li>
+		<a href="https://www.facebook.com/groups/10150144146965364/" target="_blank" rel="noopener">
+			<svg class="icon" role="presentation"><use xlink:href="#icon-facebook"></use></svg> Facebook
+		</a>
+	</li>
+</ul>
+	</section>
+</div>
+
+
+		
+		
+		
+		<footer id="footer" class="hidden-print">
+			
+			<div class="footer-links">
+				<a href="/terms-of-use">Terms of Use</a> | <a href="/privacy-policy">Privacy Policy</a>
+			</div>
+			
+			
+			
+			<div class="powered-by frontrunner">
+				<a href="http://www.gslsolutions.com/2012/7/frontrunner-cms" target="_blank">
+					<span class="powered">Powered By:</span>
+					<span class="text-logo">FrontRunner CMS&reg;</span>
+				</a>
+			</div>
+		</footer>
+		
+		
+		
+		
+		
+	</div>
+	
+	<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-82253112-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</body>
+
+</html>
