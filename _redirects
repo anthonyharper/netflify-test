@@ -1,2 +1,2 @@
-/index.html\?* http://www.beirutveterans.org/index.cfm\?:splat 200
+/index.html?* http://www.beirutveterans.org/index.cfm?:splat 200
 /* http://www.beirutveterans.org/:splat 200
